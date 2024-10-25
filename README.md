@@ -6,13 +6,13 @@
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/ankush-kumar-925b37256/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
- <a href="https://www.youtube.com/channel/your-channel" target="_blank">
+ <a href="https://www.instagram.com/ankush_roy_2190/" target="_blank">
     <img src="https://t4.ftcdn.net/jpg/07/33/91/73/360_F_733917372_WX8Yvk6XkfEX9eznFpLxqwttC6d3glR4.jpg" height="25" alt="YouTube logo" />
   </a>
-   <a href="https://twitter.com/your-profile" target="_blank">
+   <a href="https://x.com/AnkushRoy180266" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter logo" />
   </a>
 </div>
